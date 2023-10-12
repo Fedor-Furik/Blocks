@@ -1,0 +1,100 @@
+.blue {
+    border-top: solid white 2px;
+    border-bottom: solid white 2px;
+    background-color: rgb(67, 67, 255);
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+.green {
+    border-top: solid white 2px;
+    border-bottom: solid white 2px;
+    background-color: rgb(49, 139, 49);
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+.red {
+    border-top: solid white 2px;
+    border-bottom: solid white 2px;
+    background-color: rgb(255, 70, 70);
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+.black {
+    border-top: solid white 2px;
+    border-bottom: solid white 2px;
+    background-color: black;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+.dd{
+    color: rgb(178, 178, 178);
+    display: flex;
+    font-size: 16px;
+    justify-content: center;
+    line-height: 20px;
+    margin: 0;
+}
+.HdBlue {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(44, 44, 168);
+    width: 100%;
+    margin: 0;
+}
+.HdGreen {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(38, 104, 38);
+    width: 100%;
+    margin: 0;
+}
+.HdRed {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(177, 51, 51);
+    width: 100%;
+    margin: 0;
+}
+.HdBlack {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(32, 32, 32);
+    width: 100%;
+    margin: 0;
+}
+.cl{
+    width: 16%;
+    border: solid white 2px;
+}
+h2{
+    font-size: 35px;
+    color:white;
+}
+.f{
+    color: white;
+    margin-top: 28px;
+}
+.f2{
+    margin-top: 48px;
+    color: white;
+}
